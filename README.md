@@ -14,12 +14,7 @@
 
 ---
 
-## 🚀 Установка
 
-```bash
-git clone https://github.com/username/webmax-to-telegram.git
-cd webmax-to-telegram
-pip install -r requirements.txt
 
 ---
 
